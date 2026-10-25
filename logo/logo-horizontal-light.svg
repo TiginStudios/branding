@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 240" width="620" height="240">
+  <rect width="620" height="240" fill="#ffffff"/>
+  <g transform="translate(60,55)">
+    <polygon points="0,0 70,0 46,34" fill="#5ee0ad"/>
+    <polygon points="0,0 46,34 20,34" fill="#43d39f"/>
+    <polygon points="70,0 70,52 46,34" fill="#2cc792"/>
+    <polygon points="70,0 140,0 94,34" fill="#3fd29d"/>
+    <polygon points="140,0 120,34 94,34" fill="#1fb585"/>
+    <polygon points="70,0 94,34 70,52" fill="#15a778"/>
+    <polygon points="46,34 70,52 58.2,84" fill="#1db582"/>
+    <polygon points="58.2,84 70,52 70,132" fill="#139e71"/>
+    <polygon points="70,52 94,34 70,132" fill="#0b8460"/>
+  </g>
+  <g font-family="Inter, Montserrat, Arial, sans-serif" font-weight="500" font-size="46" fill="#10121e" letter-spacing="1">
+    <text x="232" y="110">TIGIN</text>
+    <text x="232" y="166">STUDIOS</text>
+  </g>
+</svg>
